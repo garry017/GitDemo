@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-25T16:50:33 IST" name="Suite" finished-at="2025-04-25T16:50:33 IST" duration-ms="0">
+    <groups>
+      <group name="purchase">
+        <method signature="SubmitOderTest.submitorder(java.util.HashMap)[pri:0, instance:cricket.SubmitOderTest@2c78324b]" name="submitorder" class="cricket.SubmitOderTest"/>
+      </group> <!-- purchase -->
+      <group name="ErrorHandeling">
+        <method signature="ErrorValidation.LoginErrorValidation()[pri:0, instance:cricket.ErrorValidation@51bf5add]" name="LoginErrorValidation" class="cricket.ErrorValidation"/>
+        <method signature="ErrorValidation.LoginErrorValidation()[pri:0, instance:cricket.ErrorValidation@895e367]" name="LoginErrorValidation" class="cricket.ErrorValidation"/>
+      </group> <!-- ErrorHandeling -->
+    </groups>
+  </suite> <!-- Suite -->
+</testng-results>
